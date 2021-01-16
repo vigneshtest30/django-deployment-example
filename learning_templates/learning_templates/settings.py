@@ -25,7 +25,7 @@ TEMPLATE_DIR = os.path.join(BASE_DIR, 'templates')
 SECRET_KEY = '=0tnik5sxtk)8y!ooxrn&q0c%+8a___!(ena0+9_eo1#c*qimt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['vigneshtest30.pythonanywhere.com']
 
